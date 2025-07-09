@@ -1,0 +1,5 @@
+Edad,Género,Descuento aplicado,Envío pickup,Edad real,Edad normalizada,Retiro en tienda,Probabilidad de Alto Valor,Cliente de Alto Valor,Productos recomendados
+0.5,Femenino,Sí,No,44,0.5,False,0.0665,No,Sweater
+0.5,Masculino,Sí,Sí,44,0.5,True,0.1923,No,Jacket
+0.5384615384615384,Femenino,Sí,Sí,46,0.5384615384615384,True,0.3674,No,Sneakers
+0.9230769230769231,Femenino,Sí,Sí,66,0.9230769230769231,True,0.9224,Sí,Jewelry
